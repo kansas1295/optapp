@@ -1,0 +1,22 @@
+{
+  "name": "erfours-sdk",
+  "version": "1.0.0",
+  "description": "npm install ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kansas1295/optapp.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "kansas1295",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kansas1295/optapp/issues"
+  },
+  "homepage": "https://github.com/kansas1295/optapp#readme"
+}
